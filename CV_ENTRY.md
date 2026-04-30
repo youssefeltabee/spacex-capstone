@@ -2,9 +2,17 @@
 
 ## How to Add This Project to Your CV
 
+### Exact Format (Match the Example Given)
+
+```
+SpaceX Launch Success Predictor
+Built end-to-end ML pipeline with interactive Folium map and Plotly Dash dashboard for Falcon 9 launch outcome prediction, achieving 92.6% AUC with Random Forest classification and comprehensive EDA
+Tools: Python, Pandas, Scikit-learn, Seaborn, Folium, Plotly Dash, SQLite, Git, Jupyter, PowerPoint
+```
+
 ### Option 1: Projects Section (Recommended)
 
-**Data Science Capstone: SpaceX Launch Success Prediction** | *Apr 2026*  
+**Data Science Capstone: SpaceX Launch Success Prediction** | *Apr 2026*
 GitHub: https://github.com/youssefeltabee/spacex-capstone
 
 - Built end-to-end machine learning pipeline analyzing 90 SpaceX Falcon9 launches, achieving **92.6% AUC** with Random Forest classifier
