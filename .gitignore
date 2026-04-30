@@ -1,0 +1,35 @@
+# Ignore patterns for Capstone project
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Temporary
+*.tmp
+*~
+
+# Logs
+*.log
+
+# Large generated files (already committed, but prevent future)
+# figure_*.png
+# spacex_report.pdf
+
+# IDE
+.vscode/
+.idea/
+
+# Virtual environments
+venv/
+env/
+ENV/
