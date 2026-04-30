@@ -106,3 +106,26 @@ GitHub: https://github.com/youssefeltabee/spacex-capstone
    - For Data Engineer role: Emphasize data pipelines, SQLite, multiple data sources
 
 Save this file and copy the appropriate section to your CV!
+
+---
+
+## Additional Skills Sections to Add to CV
+
+### Programming Languages / Libraries:
+Python, SQL, Pandas, NumPy, Scikit-learn
+
+### Tools & Platforms:
+Docker, Git, MySQL, SQLite, Plotly, Dash, SQLAlchemy
+
+### Methods & Competencies:
+Machine Learning, Statistical Modeling, Feature Engineering, EDA, RAG Systems, Data Visualization, Predictive Modeling
+
+---
+
+## Complete CV Entry (Copy & Paste Ready)
+
+**SpaceX Launch Success Predictor**
+Built end-to-end ML pipeline with interactive Folium map and Plotly Dash dashboard for Falcon 9 launch outcome prediction, achieving 92.6% AUC with Random Forest classification and comprehensive EDA
+Tools: Python, Pandas, Scikit-learn, Seaborn, Folium, Plotly Dash, SQLite, Git, Jupyter, PowerPoint
+
+**Skills:** Python, SQL, Pandas, NumPy, Scikit-learn | **Tools:** Docker, Git, MySQL, SQLite, Plotly, Dash, SQLAlchemy | **Methods:** Machine Learning, Statistical Modeling, Feature Engineering, EDA, RAG Systems, Data Visualization, Predictive Modeling
