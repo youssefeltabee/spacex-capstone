@@ -7,8 +7,19 @@
 ```
 SpaceX Launch Success Predictor
 Built end-to-end ML pipeline with interactive Folium map and Plotly Dash dashboard for Falcon 9 launch outcome prediction, achieving 92.6% AUC with Random Forest classification and comprehensive EDA
-Tools: Python, Pandas, Scikit-learn, Seaborn, Folium, Plotly Dash, SQLite, Git, Jupyter, PowerPoint
+Tools: Python, SQL, Pandas, NumPy, Scikit-learn, Seaborn, Folium, Plotly, Dash, SQLite, MySQL, SQLAlchemy, Git, Jupyter, PowerPoint
 ```
+
+### Additional Skills Sections to Add to CV:
+
+**Programming Languages / Libraries:**  
+Python, SQL, Pandas, NumPy, Scikit-learn
+
+**Tools & Platforms:**  
+Docker, Git, MySQL, SQLite, Plotly, Dash, SQLAlchemy
+
+**Methods & Competencies:**  
+Machine Learning, Statistical Modeling, Feature Engineering, EDA, RAG Systems, Data Visualization, Predictive Modeling
 
 ### Option 1: Projects Section (Recommended)
 
