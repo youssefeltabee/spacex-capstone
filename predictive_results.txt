@@ -1,0 +1,26 @@
+SpaceX Launch Success - Predictive Model Results
+==================================================
+
+Logistic Regression:
+  AUC: 0.815
+  Precision (class 1): 0.889
+  Recall (class 1): 0.889
+  F1-score (class 1): 0.889
+
+Random Forest:
+  AUC: 0.926
+  Precision (class 1): 0.882
+  Recall (class 1): 0.833
+  F1-score (class 1): 0.857
+
+Top 10 Feature Importances (Random Forest):
+  ReusedCount: 0.2431
+  Legs: 0.1818
+  GridFins: 0.1554
+  Block: 0.1253
+  PayloadMass: 0.1136
+  Flights: 0.0481
+  LaunchSite_KSC LC 39A: 0.0294
+  Orbit_ISS: 0.0220
+  Reused: 0.0158
+  Orbit_VLEO: 0.0137
